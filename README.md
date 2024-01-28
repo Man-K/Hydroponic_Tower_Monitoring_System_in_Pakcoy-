@@ -1,0 +1,5 @@
+![SolidWork](https://github.com/Man-K/Hydroponic_Tower_Monitoring_System_in_Pakcoy-/assets/103935591/bb5cc0c9-08fa-4025-88a6-49effa05c591)
+![Tampilan Alat](https://github.com/Man-K/Hydroponic_Tower_Monitoring_System_in_Pakcoy-/assets/103935591/c2a80190-f887-41f3-98f5-db78f76064e9)
+![Tampilan Schematic 1](https://github.com/Man-K/Hydroponic_Tower_Monitoring_System_in_Pakcoy-/assets/103935591/1a6f01c5-7b71-4080-9c21-8f436abd2a86)
+![Tampilan Schematic 2](https://github.com/Man-K/Hydroponic_Tower_Monitoring_System_in_Pakcoy-/assets/103935591/7b97c9e5-7537-4e84-94e7-5043a7dbc673)
+![Tampilan System](https://github.com/Man-K/Hydroponic_Tower_Monitoring_System_in_Pakcoy-/assets/103935591/35e6f685-8422-4ac2-b7d0-1e771539effb)
